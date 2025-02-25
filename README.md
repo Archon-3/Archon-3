@@ -1,7 +1,7 @@
 - Hello, I’m @Archon-3
 - I’m interested in programming
 - More interested on developing web apps and mobile applications 
--I’m currently learning software engineering at Adama Science And Technology University
+- I’m currently learning software engineering at Adama Science And Technology University
  
 - 📫 How to reach me ...abebeabenezer808@gmail.com 
   
