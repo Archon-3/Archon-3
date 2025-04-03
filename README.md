@@ -35,7 +35,7 @@ I'm a software engineering student at Adama Science and Technology University. P
 - **Pharmacy Locator** - A web app that helps users find pharmacies with specific medicines.  
 
 ### 📊 GitHub Stats
-![Abin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archon-3&show_icons=true&theme=radical)
+![Abenezer GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archon-3&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Archon-3&layout=compact&theme=radical)
 
 ### 📫 Connect with Me
