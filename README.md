@@ -39,7 +39,7 @@ I'm a software engineering student at Adama Science and Technology University. P
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in//abenezer-abebe-0b592a358)     
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in//abenezer-abebe-0b592a358/)     
 
 ⭐️ Feel free to check out my repositories and contribute! 🚀
 
