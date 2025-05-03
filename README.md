@@ -1,4 +1,4 @@
-# Hi there, I'm Abenezer! 👋
+# Selam, I'm Abenezer! 👋
 
 ### 🚀 About Me
 I'm a software engineering student at Adama Science and Technology University. Passionate about UI/UX design, web development, and creating impactful digital solutions. Currently working on a **pharmacy locator web app** and have built various projects, including **Betachn (a real estate platform)** and **Smart Gebere (a farmer-focused mobile app)**.
