@@ -30,7 +30,7 @@ I'm a software engineering student at Adama Science and Technology University. P
 ### 📌 Notable Projects
 - **Betachn** - A real estate web app for connecting renters and buyers without middlemen/Broker.  
 - **Smart Gebere** - A mobile app designed to help farmers manage their work more efficiently.  
-- **Pharmacy Locator** - A web app that helps users find pharmacies with specific medicines.  
+  
 
 ### 📊 GitHub Stats
 ![Abenezer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archon-3&show_icons=true&theme=radical)
