@@ -52,26 +52,35 @@ Passionate software engineering student at **Adama Science and Technology Univer
 </div>
 ---
 
-## 🚀 Notable Projects
+## 🏆 Notable Projects
 
-### **Enterprise Performance Management System**
-▶ **Technologies:** React, Node.js, Firebase  
-✔ Institutional platform for staff performance evaluation  
-✔ Implemented role-based access control  
-✔ Developed interactive dashboard with analytics  
+<div style="display: flex; flex-direction: column; gap: 25px; margin: 30px 0;">
 
-### **Gulit E-Commerce Platform**  
-▶ **Technologies:** MERN Stack, JWT Authentication  
-✔ End-to-end marketplace solution  
-✔ Real-time inventory management  
+### <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; border-left: 5px solid #61dafb;">
+**📊 Enterprise Performance Management System**  
+<small>React | Node.js | Firebase</small>  
+✔ Institutional platform for 50+ department staff evaluations  
+✔ Implemented role-based access control system  
+✔ Designed analytics dashboard with performance metrics  
+</div>
+
+### <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; border-left: 5px solid #38b2ac;">
+**🛒 Gulit E-Commerce Platform**  
+<small>MERN Stack | JWT Authentication</small>  
+✔ Complete marketplace with seller/buyer dashboards  
+✔ Real-time inventory management system  
 ✔ Optimized checkout flow (35% conversion improvement)  
+</div>
 
-### **Smart Gebere Agricultural App**  
-▶ **Technologies:** React Native, Python  
+### <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; border-left: 5px solid #f7df1e;">
+**🌱 Smart Gebere Agricultural App**  
+<small>React Native | Python</small>  
 ✔ Digital companion for smallholder farmers  
 ✔ Crop management with push notifications  
-✔ Productivity analytics dashboard  
+✔ Productivity analytics visualization  
+</div>
 
+</div>
 ---
 
 ## 📊 Development Activity
