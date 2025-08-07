@@ -1,82 +1,88 @@
-# ✨ Hi there, I'm Abenezer Abebe 
-
-### 🎯 Passionate Software Engineer & Digital Craftsman
-`Adama Science and Technology University` | `Full-Stack Developer` | `UI/UX Enthusiast`
-
-I build **intuitive digital experiences** that bridge technology and human needs. When I'm not coding, you'll find me sketching interfaces or exploring new design systems.
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Abenezer Abebe 
+#### *Software Engineer | Adama Science & Technology University*
 
 ---
 
-## 🛠️ My Tech Toolbox
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Professional Profile
+
+A solutions-driven software engineering student specializing in full-stack development with expertise in creating enterprise-grade applications. Combines technical proficiency with user-centered design principles to deliver robust digital solutions.
+
+---
+
+## <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="25"> Core Competencies
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Frontend Engineering</strong><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Backend Systems</strong><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" />
+    </td>
+    <td align="center" width="33%">
+      <strong>DevOps & Tools</strong><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## <img src="https://cdn-icons-png.flaticon.com/512/993/993791.png" width="25"> Professional Projects
+
+### <img src="https://cdn-icons-png.flaticon.com/512/2942/2942789.png" width="20"> Enterprise Performance Management System  
+**Tech Stack:** React.js, Node.js, Firebase  
+- Developed institutional platform for 50+ department staff evaluations  
+- Implemented role-based access control system  
+- Designed intuitive dashboard with performance analytics  
+
+### <img src="https://cdn-icons-png.flaticon.com/512/1570/1570887.png" width="20"> Gulit E-Commerce Platform  
+**Tech Stack:** MERN Stack, JWT Authentication  
+- Built complete marketplace with seller/buyer dashboards  
+- Integrated real-time inventory management  
+- Optimized checkout flow improving conversion by 35%  
+
+### <img src="https://cdn-icons-png.flaticon.com/512/619/619032.png" width="20"> Smart Gebere Agricultural App  
+**Tech Stack:** React Native, Python  
+- Mobile solution for smallholder farmers  
+- Crop management system with push notifications  
+- Data visualization for farm productivity metrics  
+
+---
+
+## <img src="https://cdn-icons-png.flaticon.com/512/3132/3132693.png" width="25"> Technical Analytics
 
 <div align="center">
 
-### 🎨 Frontend Alchemy
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+| <img src="https://github-readme-stats.vercel.app/api?username=Archon-3&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archon-3&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" /> |
+| ------------- | ------------- |
 
-### ⚙️ Backend Engineering
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### 🧰 Creative Tools
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Streak](https://streak-stats.demolab.com?user=Archon-3&theme=algolia&hide_border=true&background=0D1117)
 
 </div>
 
 ---
 
-## 🚀 Highlight Projects
-
-### 🏡 **Betachn** – Real Estate Revolution  
-`React` `Firebase` `Tailwind`  
-> Disrupting traditional brokerage with direct renter-buyer connections through elegant UI
-
-### 🌱 **Smart Gebere** – Farmer's Digital Companion  
-`React Native` `Node.js`  
-> Mobile solution boosting agricultural productivity with task management and analytics
-
-### 🛍️ **Gulit** – Next-Gen E-Commerce  
-`MERN Stack` `Firebase Auth`  
-> Complete marketplace with role-based dashboards and real-time product management
-
-### 🏛️ **University Performance System**  
-`React` `Node.js` `Firestore`  
-> Institutional platform for streamlined employee evaluation across departments
-
----
-
-## 📊 My Coding Journey
+## <img src="https://cdn-icons-png.flaticon.com/512/3059/3059518.png" width="25"> Professional Connections
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Archon-3&theme=nightowl&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-![Abenezer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archon-3&show_icons=true&theme=nightowl&hide_border=true&count_private=true&include_all_commits=true&line_height=24)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Archon-3&layout=compact&theme=nightowl&hide_border=true&langs_count=6)
+  
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>](https://linkedin.com/in/abenezer-abebe-0b592a358)
+[<img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="40" alt="Email"/>](mailto:your@email.com)
+[<img src="https://img.icons8.com/color/48/000000/github--v1.png" width="40" alt="GitHub"/>](https://github.com/Archon-3)
 
 </div>
-
----
-
-## 🌍 Let's Collaborate!
-
-I'm always excited to connect with fellow developers and creators. Let's build something meaningful together!
-
-[![LinkedIn](https://img.shields.io/badge/-Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abenezer-abebe-0b592a358)
-[![GitHub](https://img.shields.io/badge/-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Archon-3)
-[![Email](https://img.shields.io/badge/-Reach%20Out%20Via%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code."</i> — John Johnson
+  <em>"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</em> — Bill Gates
 </p>
