@@ -1,80 +1,82 @@
-# 👋 Selam, I'm Abenezer
+# ✨ Hi there, I'm Abenezer Abebe 
 
-### 🚀 About Me
-I'm a **Software Engineering** student at **Adama Science and Technology University** with a passion for:
+### 🎯 Passionate Software Engineer & Digital Craftsman
+`Adama Science and Technology University` | `Full-Stack Developer` | `UI/UX Enthusiast`
 
-- 🌐 Web development  
-- 🎨 UI/UX design  
-- 💡 Building meaningful digital products
-
-I enjoy turning ideas into clean, functional, and user-friendly interfaces.
+I build **intuitive digital experiences** that bridge technology and human needs. When I'm not coding, you'll find me sketching interfaces or exploring new design systems.
 
 ---
 
-### 🧰 Tech Stack
+## 🛠️ My Tech Toolbox
 
-#### 🖥️ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<div align="center">
 
-#### 🧩 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+### 🎨 Frontend Alchemy
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 🗄️ Database
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### ⚙️ Backend Engineering
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-#### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+### 🧰 Creative Tools
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
-### 💼 Featured Projects
+## 🚀 Highlight Projects
 
-#### 🏠 **Betachn** – Real Estate Platform  
-A clean, modern web platform for renters and buyers to connect directly—no brokers needed.
+### 🏡 **Betachn** – Real Estate Revolution  
+`React` `Firebase` `Tailwind`  
+> Disrupting traditional brokerage with direct renter-buyer connections through elegant UI
 
-#### 🌾 **Smart Gebere** – Farmer-Focused Mobile App  
-Helps farmers track their daily work and manage agricultural tasks more efficiently.
+### 🌱 **Smart Gebere** – Farmer's Digital Companion  
+`React Native` `Node.js`  
+> Mobile solution boosting agricultural productivity with task management and analytics
 
-#### 🛒 **Gulit** – E-Commerce Platform  
-An end-to-end e-commerce system for buyers and sellers with smooth UI, role-based dashboards, product management, and more.  
-> 🧑‍💻 Built with React, Tailwind CSS, Node.js, and Firebase.
+### 🛍️ **Gulit** – Next-Gen E-Commerce  
+`MERN Stack` `Firebase Auth`  
+> Complete marketplace with role-based dashboards and real-time product management
 
-#### 💼 **Internship Project – Performance Management System**  
-A web-based platform for managing employee performance across university departments. Features include:
-
-- Multi-step signup for staff
-- Role-based login system
-- User dashboard and evaluation tracking  
-> 🔧 Technologies: React.js, Node.js, Firebase  
-> 📌 My Role: Full-Stack Developer – developed the UI and backend API integration
+### 🏛️ **University Performance System**  
+`React` `Node.js` `Firestore`  
+> Institutional platform for streamlined employee evaluation across departments
 
 ---
 
-### 📈 GitHub Stats
+## 📊 My Coding Journey
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Archon-3&theme=nightowl&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+![Abenezer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archon-3&show_icons=true&theme=nightowl&hide_border=true&count_private=true&include_all_commits=true&line_height=24)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Archon-3&layout=compact&theme=nightowl&hide_border=true&langs_count=6)
+
+</div>
+
+---
+
+## 🌍 Let's Collaborate!
+
+I'm always excited to connect with fellow developers and creators. Let's build something meaningful together!
+
+[![LinkedIn](https://img.shields.io/badge/-Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abenezer-abebe-0b592a358)
+[![GitHub](https://img.shields.io/badge/-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Archon-3)
+[![Email](https://img.shields.io/badge/-Reach%20Out%20Via%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Archon-3&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Archon-3&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <i>"First, solve the problem. Then, write the code."</i> — John Johnson
 </p>
-
----
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abenezer-abebe-0b592a358)
-
----
-
-⭐️ Check out my repos and let’s build clean, human-centered apps together.
