@@ -2,7 +2,7 @@
   
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Abenezer Abebe
 
-### Software Engineering Student | Full-Stack Developer | UI Enthusiast
+### `Adama Science and Technology University` | `Full-Stack Developer` | `UI/UX Enthusiast`| `Mobile App`
   
 </div>
 
