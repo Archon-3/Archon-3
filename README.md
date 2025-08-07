@@ -1,14 +1,18 @@
 # Selam, I'm Abenezer! 👋
 
 ### 🚀 About Me
-I'm a software engineering student at Adama Science and Technology University. Passionate about UI/UX design, web development, and creating impactful digital solutions. Currently working on a **pharmacy locator web app** and have built various projects, including **Betachn (a real estate platform)** and **Smart Gebere (a farmer-focused mobile app)**.
+I'm a Software Engineering student at **Adama Science and Technology University**, passionate about **UI/UX design**, **web development**, and building impactful digital solutions. I'm currently developing a **pharmacy locator web app** and have worked on several projects, including:
+
+- **Betachn** – a real estate platform that connects renters and buyers without the need for middlemen.
+- **Smart Gebere** – a mobile app that helps farmers manage their work more efficiently.
 
 ### 🛠 Tech Stack
+
 #### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### Backend
@@ -21,7 +25,7 @@ I'm a software engineering student at Adama Science and Technology University. P
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### UI/UX
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 #### Other
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
@@ -31,17 +35,15 @@ I'm a software engineering student at Adama Science and Technology University. P
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📌 Notable Projects
-- **Betachn** - A real estate web app for connecting renters and buyers without middlemen/Broker.  
-- **Smart Gebere** - A mobile app designed to help farmers manage their work more efficiently.  
-  
+- **Betachn** – A real estate web app connecting renters and buyers directly, eliminating brokers and middlemen.
+- **Smart Gebere** – A mobile application that empowers farmers to manage their farming activities digitally.
+- **Pharmacy Locator Web App** – An ongoing project that helps users find pharmacies with specific medicines in stock.
 
-### 📊 GitHub Stats
-![Abenezer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archon-3&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Archon-3&layout=compact&theme=radical)
-
+### 📈 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=Archon-3&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archon-3&show_icons=true&theme=radical)
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in//abenezer-abebe-0b592a358/)     
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abenezer-abebe-0b592a358/)
 
-⭐️ Feel free to check out my repositories and contribute! 🚀
-
+⭐️ Feel free to explore my repositories and contribute. Let's build something amazing together!
