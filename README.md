@@ -20,25 +20,36 @@ Passionate software engineering student at **Adama Science and Technology Univer
 
 ## 🛠 Technical Expertise
 
-<div align="center">
+<div align="center" style="margin: 20px 0;">
 
-### Frontend Development
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
-
-### Backend Development
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase">
-
-### Tools & Platforms
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-
+### <img src="https://cdn-icons-png.flaticon.com/512/1084/1084982.png" width="24"> Frontend Development
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 15px 0;">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
 </div>
 
+### <img src="https://cdn-icons-png.flaticon.com/512/1084/1084937.png" width="24"> Backend Development
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 15px 0;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+</div>
+
+### <img src="https://cdn-icons-png.flaticon.com/512/3067/3067512.png" width="24"> Mobile & Tools
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 15px 0;">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+</div>
+
+</div>
 ---
 
 ## 🚀 Notable Projects
