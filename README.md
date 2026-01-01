@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+# ABENEZER ABEBE
 
-# Abenezer Abebe
-
-### Software Engineering Student | AI & Full-Stack Developer  
+### Software Engineering Student | AI & Web/Mobile APP Developer  
 📍 Adama Science and Technology University
 
 <br/>
