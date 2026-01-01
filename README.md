@@ -1,97 +1,96 @@
 <div align="center">
 
-# 👋 Abenezer Abebe
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 
-**Software Engineering Student**  
-Adama Science and Technology University  
-**Full-Stack Web & Mobile Developer**
+# Abenezer Abebe
+
+### Software Engineering Student | Full-Stack & Mobile Developer  
+📍 Adama Science and Technology University
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase,php,mysql,js,html,css,tailwind,python,git,docker,figma,reactnative" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I’m a software engineering student at **Adama Science and Technology University** with a strong focus on building **practical, scalable, and user-centered applications**.
+I build **real-world software**, not just assignments.
 
-I enjoy working across the full stack — from crafting clean and intuitive user interfaces to designing reliable backend systems — with a mindset grounded in **problem-solving, system thinking, and real-world impact**.
-
-**What I care about:**
-- Turning real problems into usable software
-- Writing maintainable, readable code
-- Bridging technical execution with business needs
+I focus on:
+- Clean, scalable **full-stack applications**
+- Practical **UI/UX decisions**
+- Solving local and institutional problems with technology
 
 ---
 
-## 🧠 Technical Skill Set
+## 🛠 Tech Stack
+
+<div align="center">
 
 ### Frontend
-- React.js
-- JavaScript (ES6+)
-- HTML5, CSS3
-- Tailwind CSS
-- UI/UX fundamentals
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
 
 ### Backend
-- Node.js & Express
-- PHP
-- Firebase
-- MySQL
-- RESTful APIs
-- Authentication & authorization
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,php,mysql" />
 
 ### Mobile & Tools
-- React Native
-- Git & GitHub
-- Docker (basics)
-- Figma
-- Python
+<img src="https://skillicons.dev/icons?i=reactnative,python,git,docker,figma" />
+
+</div>
 
 ---
 
-## 🧩 Selected Projects
+## 🚀 Projects That Matter
 
-### 🏨 Hotel Management Web Application
-**React | Firebase | Role-Based Access**
-- Designed and implemented a hotel management system for reservations and administration  
-- Built reusable UI components and clean navigation flows  
-- Focused on usability and responsive design  
+### 🏨 Hotel Management System
+<img src="https://skillicons.dev/icons?i=react,firebase" />
 
----
-
-### 🏠 Betachn – Property Rental & Sales Platform
-**Java | Web Technologies**
-- Academic project connecting renters, buyers, and property owners  
-- Eliminated third-party intermediaries to simplify transactions  
-- Designed core system architecture and user interaction flows  
+- Reservation & admin management system  
+- Role-based access control  
+- Clean, responsive UI  
 
 ---
 
-### 💊 Medicine Finder Web Application
-**React | Backend Integration**
-- Platform that helps users locate pharmacies with specific medicines  
-- Pharmacies can register and manage available inventory  
-- Solves a real accessibility problem in local healthcare  
+### 🏠 Betachn – Property Platform
+<img src="https://skillicons.dev/icons?i=java,html,css" />
+
+- Connects renters, buyers & owners  
+- Eliminates third-party intermediaries  
+- Academic architecture-focused project  
 
 ---
 
-### 🌱 Smart Gebere – Agricultural Mobile App
-**React Native | UI/UX Design**
-- Mobile app concept for farmers to manage agricultural activities  
-- Focused on usability for non-technical users  
-- Designed dashboards and interaction flows for productivity support  
+### 💊 Medicine Finder Web App
+<img src="https://skillicons.dev/icons?i=react,nodejs,mysql" />
+
+- Helps users find pharmacies with specific medicines  
+- Pharmacy registration & inventory listing  
+- Solves real healthcare accessibility problems  
+
+---
+
+### 🌱 Smart Gebere – Farmer Mobile App
+<img src="https://skillicons.dev/icons?i=reactnative,figma,python" />
+
+- UI/UX-focused mobile app for farmers  
+- Crop tracking & productivity support  
+- Designed for non-technical users  
 
 ---
 
 ### 🛒 E-Commerce Platform
-**React | PHP | MySQL**
-- Full e-commerce workflow: authentication, product management, cart system  
-- Seller profile functionality for adding and managing items  
-- Emphasis on clean UI and scalable structure  
+<img src="https://skillicons.dev/icons?i=react,php,mysql" />
+
+- Seller dashboards & product management  
+- Authentication & cart system  
+- Scalable frontend structure  
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -110,9 +109,15 @@ I enjoy working across the full stack — from crafting clean and intuitive user
 
 <div align="center">
 
-[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://linkedin.com/in/abenezer-abebe-0b592a358)
-[![GitHub](https://img.icons8.com/fluency/48/github.png)](https://github.com/Archon-3)
-[![Email](https://img.icons8.com/color/48/gmail-new.png)](mailto:your@email.com)
+<a href="https://linkedin.com/in/abenezer-abebe-0b592a358">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+<a href="https://github.com/Archon-3">
+  <img src="https://skillicons.dev/icons?i=github" width="40"/>
+</a>
+<a href="mailto:your@email.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
+</a>
 
 </div>
 
@@ -120,7 +125,6 @@ I enjoy working across the full stack — from crafting clean and intuitive user
 
 <div align="center">
 
-_“First, solve the problem. Then, write the code.”_  
-— John Johnson
+**Build useful things. Ship them. Improve relentlessly.**
 
 </div>
