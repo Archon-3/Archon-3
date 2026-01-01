@@ -29,16 +29,16 @@ My long-term goal is to build **AI-powered software systems** that solve real-wo
 
 <div align="center">
 
-### Core Technologies
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+**Core**  
+<img src="https://skillicons.dev/icons?i=python,js" />
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 
-### Backend
+**Backend**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,php,mysql" />
 
-### Mobile & Tools
+**Mobile & Tools**  
 <img src="https://skillicons.dev/icons?i=flutter,git,docker,figma" />
 
 </div>
