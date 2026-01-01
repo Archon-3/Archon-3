@@ -91,14 +91,6 @@ I enjoy working across the full stack — from crafting clean and intuitive user
 
 ---
 
-### 🔐 AI-Powered Verification System (In Progress)
-**Python | TypeScript | OCR | NLP**
-- Detects fake vs. real products, medicines, and documents  
-- Uses image analysis, OCR, and text validation  
-- Planned as a startup-ready solution  
-
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
