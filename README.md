@@ -27,21 +27,9 @@ My long-term goal is to build **AI-powered software systems** that solve real-wo
 
 ## 🛠 Tech Stack
 
-<div align="center">
-
-**Core**  
-<img src="https://skillicons.dev/icons?i=python,js" />
-
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-
-**Backend**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,php,mysql" />
-
-**Mobile & Tools**  
-<img src="https://skillicons.dev/icons?i=flutter,git,docker,figma" />
-
-</div>
+| Core & AI | Frontend | Backend | Mobile & Tools |
+|-----------|----------|---------|----------------|
+| <img src="https://skillicons.dev/icons?i=python,js" /> | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,php,mysql" /> | <img src="https://skillicons.dev/icons?i=flutter,git,docker,figma" /> |
 
 ---
 
