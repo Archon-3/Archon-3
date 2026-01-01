@@ -67,7 +67,7 @@ My long-term goal is to build **AI-powered software systems** that solve real-wo
 | 🛒 **E-Commerce Platform** | 🔐 **AI Verification System (In Progress)** |
 |---------------------------|--------------------------------------------|
 | <img src="https://skillicons.dev/icons?i=react,php,mysql" /> | <img src="https://skillicons.dev/icons?i=python,ts" /> |
-| Seller dashboards & product management | Detects fake vs real products/documents |
+| Seller dashboards & product management | Detection service provider platform |
 | Authentication & cart system | OCR + NLP + image analysis |
 | Scalable frontend structure | Startup-oriented AI system |
 
