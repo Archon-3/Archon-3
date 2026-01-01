@@ -4,12 +4,12 @@
 
 # Abenezer Abebe
 
-### Software Engineering Student | Full-Stack & Mobile Developer  
+### Software Engineering Student | AI & Full-Stack Developer  
 📍 Adama Science and Technology University
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase,php,mysql,js,html,css,tailwind,python,git,docker,figma,reactnative" />
+<img src="https://skillicons.dev/icons?i=python,react,nodejs,flutter,firebase,mysql,js,html,css,tailwind,git,docker,figma" />
 
 </div>
 
@@ -17,12 +17,11 @@
 
 ## 🧠 About Me
 
-I build **real-world software**, not just assignments.
+I’m a **software engineering student** at **Adama Science and Technology University** with a growing focus on **Artificial Intelligence and Machine Learning**, supported by solid experience in **full-stack and mobile application development**.
 
-I focus on:
-- Clean, scalable **full-stack applications**
-- Practical **UI/UX decisions**
-- Solving local and institutional problems with technology
+I enjoy building **end-to-end systems** — from user interfaces to backend logic — and I’m now extending this foundation to create **intelligent, data-driven applications**.
+
+My long-term goal is to build **AI-powered software systems** that solve real-world problems, especially in verification, productivity, and accessibility.
 
 ---
 
@@ -30,67 +29,63 @@ I focus on:
 
 <div align="center">
 
+### Core Technologies
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,php,mysql" />
 
 ### Mobile & Tools
-<img src="https://skillicons.dev/icons?i=reactnative,python,git,docker,figma" />
+<img src="https://skillicons.dev/icons?i=flutter,git,docker,figma" />
 
 </div>
 
 ---
 
-## 🚀 Projects That Matter
+## 🤖 Machine Learning Journey
 
-### 🏨 Hotel Management System
-<img src="https://skillicons.dev/icons?i=react,firebase" />
-
-- Reservation & admin management system  
-- Role-based access control  
-- Clean, responsive UI  
+- Learning **Machine Learning fundamentals** using Python  
+- Working with data preprocessing, model evaluation, and classification concepts  
+- Applying ML ideas to **verification and decision-support systems**  
+- Focused on **real applications**, not just theory  
 
 ---
 
-### 🏠 Betachn – Property Platform
-<img src="https://skillicons.dev/icons?i=java,html,css" />
+## 🚀 Selected Projects
 
-- Connects renters, buyers & owners  
-- Eliminates third-party intermediaries  
-- Academic architecture-focused project  
+### 🧩 Project Portfolio
 
----
-
-### 💊 Medicine Finder Web App
-<img src="https://skillicons.dev/icons?i=react,nodejs,mysql" />
-
-- Helps users find pharmacies with specific medicines  
-- Pharmacy registration & inventory listing  
-- Solves real healthcare accessibility problems  
+| 🏨 **Hotel Management System** | 💊 **Medicine Finder Web App** |
+|-------------------------------|-------------------------------|
+| <img src="https://skillicons.dev/icons?i=react,firebase" /> | <img src="https://skillicons.dev/icons?i=react,nodejs,mysql" /> |
+| Web-based system for hotel administration and reservations | Platform to find pharmacies with specific medicines |
+| Role-based access control | Pharmacy registration & inventory listing |
+| Clean UI & responsive design | Solves real healthcare accessibility problems |
 
 ---
 
-### 🌱 Smart Gebere – Farmer Mobile App
-<img src="https://skillicons.dev/icons?i=reactnative,figma,python" />
-
-- UI/UX-focused mobile app for farmers  
-- Crop tracking & productivity support  
-- Designed for non-technical users  
-
----
-
-### 🛒 E-Commerce Platform
-<img src="https://skillicons.dev/icons?i=react,php,mysql" />
-
-- Seller dashboards & product management  
-- Authentication & cart system  
-- Scalable frontend structure  
+| 🏠 **Betachn – Property Platform** | 🌱 **Smart Gebere – Agricultural App** |
+|----------------------------------|--------------------------------------|
+| <img src="https://skillicons.dev/icons?i=java,html,css" /> | <img src="https://skillicons.dev/icons?i=flutter,figma" /> |
+| Connects renters, buyers & property owners | Mobile app built with **Flutter** |
+| Eliminates third-party intermediaries | Integrated **GAMIN API** |
+| Focus on system design & architecture | Designed for non-technical farmers |
 
 ---
 
-## 📊 GitHub Stats
+| 🛒 **E-Commerce Platform** | 🔐 **AI Verification System (In Progress)** |
+|---------------------------|--------------------------------------------|
+| <img src="https://skillicons.dev/icons?i=react,php,mysql" /> | <img src="https://skillicons.dev/icons?i=python,ts" /> |
+| Seller dashboards & product management | Detects fake vs real products/documents |
+| Authentication & cart system | OCR + NLP + image analysis |
+| Scalable frontend structure | Startup-oriented AI system |
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -125,6 +120,6 @@ I focus on:
 
 <div align="center">
 
-**Build useful things. Ship them. Improve relentlessly.**
+**Build systems. Add intelligence. Solve real problems.**
 
 </div>
