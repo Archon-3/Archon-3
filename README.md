@@ -71,18 +71,7 @@ My long-term goal is to build **AI-powered software systems** that solve real-wo
 
 ---
 
-## 📊 GitHub Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Archon-3&show_icons=true&hide_border=true" width="420" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Archon-3&hide_border=true" width="420" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archon-3&layout=compact&hide_border=true" width="320"/>
-
-</div>
 
 ---
 
